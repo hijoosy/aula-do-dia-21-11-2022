@@ -2,7 +2,7 @@ create database artigo;
 
 use artigo;
 
-create table artigos (
+create table artigo (
     idartigo int primary key auto_increment,
     titulo varchar(50),
     autor varchar(50),
@@ -10,7 +10,7 @@ create table artigos (
     foto varchar(30) not null
     );
 
-desc artigos;
+desc artigo;
 
 
 

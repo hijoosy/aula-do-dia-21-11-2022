@@ -11,7 +11,7 @@
     <hr>
     <a href="cadastrar-artigo.php">Cadastro de Artigo</a>
     <br/></br>
-    <a href="#">Consultar Artigo</a>
+    <a href="consulta-artigo.php">Consultar Artigo</a>
 
 </body>
 </html>
